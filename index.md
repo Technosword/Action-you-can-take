@@ -7,6 +7,12 @@ Please visit the sites I have listed below.
 - [Social media toolkit](https://www.actagainstantisemitism.org/social-media-toolkit)
 - [Resources for education or responses](https://www.adl.org/education-and-resources/resource-knowledge-base)
 - [Report an incident](https://www.adl.org/reportincident)
+- [Learn about Reform Judaism](https://urj.org/what-we-believe/what-is-reform-judaism)
+- [Action about the Israel vs. Hamas Conflict](https://actnow.ajc.org/IiyZQDW)
+- [Urge Mayors to Stand Against Rising Antisemitism](https://actnow.ajc.org/ktviDz1?ms=wb_act_20210527_TakeAction)
+- [Resources for the Israel Crisis](https://jewishfederations.org/about-jfna/israel-overseas/i-o-today/israel-crisis-2021-resources)
+- [JDC Archives](https://archives.jdc.org/)
+- [Understanding antisemitism](https://www.worldjewishcongress.org/en/the-definition-of-antisemitism)
 
 ### Support or Contact
 
