@@ -11,3 +11,5 @@ Please visit the sites I have listed below.
 ### Support or Contact
 
 Having trouble with the site? Check out our [source code](https://github.com/Technosword/Action-you-can-take) which you can commit to, or [contact support](mailto:technominedev@gmail.com) and we’ll help you sort it out.
+
+*Keep in mind this site is only in Beta and will be rewritten with more resources and design in the future*
